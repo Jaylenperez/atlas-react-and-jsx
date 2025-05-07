@@ -4,6 +4,7 @@ import Section from './components/Section'
 import OpenLink from './components/OpenLink'
 import CopyLink from './components/CopyLink'
 import HelpfulResource from './components/HelpfulResource'
+import AboutMe from './components/AboutMe'
 
 function App() {
   return (
@@ -42,6 +43,8 @@ function App() {
           link="https://www.youtube.com/watch?v=f687hBjwFcM"
         />
       </Section>
+
+      <AboutMe />
     </div>
   )
 }
