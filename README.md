@@ -16,6 +16,8 @@
         <br>
         :mega: <a href="#commands">Important Commands</a>
         <br>
+        :mega: <a href="#photos">Photos</a>
+        <br>
         :sparkles: <a href="#authors">Authors</a>
 </details>
 
@@ -73,6 +75,13 @@ This repository contains a small React application built during the “React and
 - `npm run dev`: Starts dev server with Hot Module Reloading on port 5173. Anytime a file changes, the changes will automatocally be reflected in the browser
 - `npm run lint`: Run the lint checker with eslint to check for known linting issues
 - `npm run build`: Outputs the production files into the `dist` folder
+
+## :camera: <span id="photos">Photos</span>
+
+![Screenshot 2025-05-07 132838](https://github.com/user-attachments/assets/c0986093-c0e1-4749-b7b2-2ddcb96fdfff)
+![Screenshot 2025-05-07 132855](https://github.com/user-attachments/assets/20a215fa-0dd9-4af2-ab2f-6b7e14c53741)
+
+
 
 ## :sparkles: <span id="authors">Authors</span>
 
