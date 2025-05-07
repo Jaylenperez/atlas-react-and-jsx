@@ -18,7 +18,7 @@
         <br>
         :mega: <a href="#commands">Important Commands</a>
         <br>
-        :mega: <a href="#photos">Photos</a>
+        :camera: <a href="#photos">Photos</a>
         <br>
         :sparkles: <a href="#authors">Authors</a>
 </details>
