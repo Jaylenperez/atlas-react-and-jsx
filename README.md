@@ -47,6 +47,7 @@ This repository contains a small React application built during the “React and
 
 ## :house: <span id="project-structure">Project Structure</span>
 
+```plaintext
 ├── public/              # Static public assets
 │   └── favicon.png
 ├── src/
@@ -59,7 +60,7 @@ This repository contains a small React application built during the “React and
 ├── package.json
 ├── vite.config.js       # Vite configuration
 └── README.md            # Project documentation
-
+```
 ## :file_folder: <span id="files">Important Files/Folders</span>
 
 - `src`: All javascript/jsx code goes in this directory
