@@ -14,7 +14,7 @@
         <br>
         :file_folder: <a href="#files">Important Files/Folders</a>
         <br>
-        :mega: <a href="commands">Important Commands</a>
+        :mega: <a href="#commands">Important Commands</a>
         <br>
         :sparkles: <a href="#authors">Authors</a>
 </details>
