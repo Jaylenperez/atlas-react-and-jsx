@@ -1,4 +1,6 @@
 # <p align="center">React and JSX Introduction</p>
+[Link to site on Netify](https://atlas-react-and-jsx-j-perez.netlify.app/)
+
 
 ## :bookmark: Table of Contents
 
