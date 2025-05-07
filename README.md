@@ -47,7 +47,7 @@ This repository contains a small React application built during the “React and
 
 `npm run dev`
 
-**Open your browser and navigate to `http://localhost:5173/`
+**Open your browser and navigate to `http://localhost:5173/`**
 
 ## :house: <span id="project-structure">Project Structure</span>
 
